@@ -94,8 +94,10 @@ In addition, it is always a good idea to examine the resulting 3D plot for a san
 
 ## Validation & Solutions:
 The exact solutions for N=6 and N=12 are known. The numerical solutions were obtained as follows:
+
 ![soln_6e](https://user-images.githubusercontent.com/80536083/213697195-4b68052c-162c-4162-a550-a1a3a774aafe.png)
 ![soln_12e](https://user-images.githubusercontent.com/80536083/213697220-8341537f-9401-487a-b098-2ca11eed1503.png)
 
 The solution for N=13 is not known exactly, but the following result was obtained via the numerical approach described above:
+
 ![soln_13e](https://user-images.githubusercontent.com/80536083/213697332-e6de382f-6f60-40f2-9efb-97ca76e0b7d6.png)
